@@ -3,8 +3,8 @@
 ~ programação e tecnologia! 👋
 
 * Desenvolvedor
-* 19 Anos
-* 4° período _Ciência da computação_
+* 20 Anos
+* 5° período _Ciência da computação_
 
 <div>
   <a href="https://github.com/vitoroliveirasilva">
