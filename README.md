@@ -1,6 +1,7 @@
-## Olá mundo! Eu sou o Vitor Oliveira 
+## Olá mundo!
+Eu sou o Vitor Oliveira 
 
-~ programação e tecnologia! 👋
+programação e tecnologia! 👋
 
 * Desenvolvedor
 * 20 Anos
