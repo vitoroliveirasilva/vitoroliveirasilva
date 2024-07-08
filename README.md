@@ -23,9 +23,9 @@
 <!-- Tecnologias -->
 <div align="center">
   <h3 align="left"><b>Tecnologias</b></h3>
-  <a href="https://github.com/vitoroliveirasilva/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitoroliveirasilva&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=B000FFFF&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=B000FFFF&count_private=true" alt="Most Used Languages">
-  </a>
+<a href="https://github.com/vitoroliveirasilva/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitoroliveirasilva&layout=compact&hide_title=false&count_private=true&langs_count=16&show_icons=true&title_color=B000FFFF&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=B000FFFF&count_private=true" alt="Most Used Languages">
+</a>
   <br>
   <br>
   <img align="center" alt="Vi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
