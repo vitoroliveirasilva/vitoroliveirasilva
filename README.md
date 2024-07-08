@@ -29,4 +29,4 @@ Programação e tecnologia! 👋
 </div>
 
 ![Snake animation].(https://github.com/vitoroliveirasilva/vitoroliveirasilva/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=vitoroliveirasilva&repo=your username&theme=react)].(https://github.com/vitoroliveirasilva/vitoroliveirasilva)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=vitoroliveirasilva&repo=vitoroliveirasilva&theme=react)].(https://github.com/vitoroliveirasilva/vitoroliveirasilva)
