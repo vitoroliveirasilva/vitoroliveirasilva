@@ -28,5 +28,4 @@ Programação e tecnologia! 👋
   <a href="https://www.instagram.com/vituuu.pdf/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-![Snake animation].(https://github.com/vitoroliveirasilva/vitoroliveirasilva/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=vitoroliveirasilva&repo=vitoroliveirasilva&theme=react)].(https://github.com/vitoroliveirasilva/vitoroliveirasilva)
+![snake gif](https://github.com/vitoroliveirasilva/vitoroliveirasilva/blob/output/github-contribution-grid-snake.gif)
