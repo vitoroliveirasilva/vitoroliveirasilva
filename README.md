@@ -4,7 +4,7 @@ Programação e tecnologia! 👋
 
 * Desenvolvedor
 * 20 Anos
-* 5° período _Ciência da computação_
+* 6° período _Ciência da computação_
 #
 <div>
   <a href="https://github.com/vitoroliveirasilva">
@@ -27,3 +27,6 @@ Programação e tecnologia! 👋
   <a href="https://www.linkedin.com/in/vitor-oliveira-302558228" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/vituuu.pdf/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
+
+![Snake animation].(https://github.com/vitoroliveirasilva/vitoroliveirasilva/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=vitoroliveirasilva&repo=your username&theme=react)].(https://github.com/vitoroliveirasilva/vitoroliveirasilva)
