@@ -6,26 +6,29 @@
 </div>
 
 <!-- Sobre mim -->
-<div align="center">
-  <h3 align="left"><b>Sobre mim! 👋</b></h3>
-  <p>Estou no sexto semestre da faculdade de <i>ciência da computação</i>, tenho 20 anos e descobri minha paixão antes mesmo de começar a trabalhar na área. Atualmente, faço parte da equipe de sistemas na Brasif Máquinas, onde desenvolvo automações com diversas ferramentas.</p>
-  <p>Essas automações englobam desenvolvimento web com <b>Flask, Python, HTML, CSS, Bootstrap e JavaScript.</b> Também trabalho no desenvolvimento de aplicativos e automações com a <b>Power Platform (Power Apps e Power Automate)</b>, e até mesmo em RPA.</p>
-  <br>
-  <h3 align="left"><b>Fale comigo</b></h3>
-  <!-- Contatos -->
-  <a href="https://www.linkedin.com/in/vitor-oliveira-302558228" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <!-- LinkedIn -->
-  <a href="https://www.instagram.com/vituuu.pdf/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <!-- Instagram -->
-  <br>
+<div align="left">
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" alt="Vulcan Salute" width="30" height="30" /> <b>Sobre mim!</b></h1>
+  <p>Estou no sexto semestre da faculdade de Ciência da Computação, tenho 20 anos e descobri minha paixão pela área antes mesmo de começar a trabalhar. Atualmente, faço parte da equipe de sistemas da Brasif Máquinas, onde desenvolvo automações utilizando diversas ferramentas.<br>Essas automações incluem desenvolvimento web com <b>Flask, Python, HTML, CSS, Bootstrap e JavaScript</b>. Além disso, trabalho no desenvolvimento de aplicativos e automações com a <b>Power Platform (Power Apps e Power Automate).</b></p>
 </div>
 
-<hr>
+<!-- Fale comigo -->
+<div align="left">
+  <h1><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="30" /> <b>Fale comigo</b></h1>
+  <blockquote>Clique em qualquer um dos ícones abaixo para acessar meu perfil.</blockquote><br>
+  <!-- Contatos -->
+  <div align="center">
+    <a href="https://www.linkedin.com/in/vitor-oliveira-302558228" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a> <!-- LinkedIn -->
+    <a href="https://www.instagram.com/vituuu.pdf/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a> <!-- Instagram -->
+  </div>
+</div>
 
 <!-- Tecnologias -->
 <div align="center">
-  <h3 align="left"><b>Tecnologias</b></h3>
-<a href="https://github.com/vitoroliveirasilva/github-readme-stats">
+  <h1 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="30" /> <b>Tecnologias</b></h1>
+  <br>
+  <a href="https://github.com/vitoroliveirasilva/github-readme-stats">
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitoroliveirasilva&layout=compact&hide_title=false&count_private=true&langs_count=16&show_icons=true&title_color=B000FFFF&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=B000FFFF&count_private=true" alt="Most Used Languages">
-</a>
+  </a>
   <br>
   <br>
   <img align="center" alt="Vi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
