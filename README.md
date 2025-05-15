@@ -7,7 +7,7 @@
 
 <!-- Sobre mim -->
 <div align="left">
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" alt="Vulcan Salute" width="30" height="30" /> <b>Sobre mim!</b></h1>
+  <h1><b>Sobre mim!</b></h1>
   <p>Estou no sexto semestre da faculdade de Ciência da Computação, tenho 20 anos e descobri minha paixão pela área antes mesmo de começar a trabalhar. Atualmente, faço parte da equipe de sistemas da Brasif Máquinas, onde desenvolvo automações utilizando diversas ferramentas.<br>Essas automações incluem desenvolvimento web com <b>Flask, Python, HTML, CSS, Bootstrap e JavaScript</b>. Além disso, trabalho no desenvolvimento de aplicativos e automações com a <b>Power Platform (Power Apps e Power Automate).</b></p>
 </div>
 
