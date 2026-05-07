@@ -6,8 +6,6 @@ Flask | Python | Node | JavaScript | Power Platform
 
 </div>
 
----
-
 <!-- Sobre mim -->
 ## Sobre mim
 
