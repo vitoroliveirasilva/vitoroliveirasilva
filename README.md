@@ -1,41 +1,136 @@
-<!-- Olá mundo animado -->
+<!-- Header animado -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=30&pause=1000&color=B000FF&center=true&vCenter=true&random=false&height=40&lines=Ol%C3%A1+mundo!;Me+chamo+Vitor+Oliveira." alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=30&pause=1000&color=B000FF&center=true&vCenter=true&random=false&width=700&height=55&lines=Ol%C3%A1%2C+mundo!;Me+chamo+Vitor+Oliveira;Desenvolvedor+Full-Stack;Python+%7C+Flask+%7C+JavaScript+%7C+Power+Platform"
+      alt="Typing SVG"
+    />
   </a>
 </div>
 
-<!-- Sobre mim -->
-<div align="left">
-  <h1><b>Sobre mim!</b></h1>
-  <p>Estou no oitavo semestre da faculdade de Ciência da Computação, tenho 22 anos e descobri minha paixão pela área antes mesmo de começar a trabalhar. Atualmente, faço parte da equipe de sistemas da Brasif Máquinas, onde desenvolvo automações utilizando diversas ferramentas.<br>Essas automações incluem desenvolvimento web com <b>Flask, Python, HTML, CSS, Bootstrap e JavaScript</b>. Além disso, trabalho no desenvolvimento de aplicativos e automações com a <b>Power Platform (Power Apps e Power Automate).</b></p>
+<br>
+
+<!-- Apresentação -->
+<div align="center">
+
+# Vitor Oliveira Silva
+
+**Desenvolvedor Full-Stack | Python | Flask | JavaScript | Node | Power Platform**
+
 </div>
 
-<!-- Fale comigo -->
-<div align="left">
-  <h1><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="30" /> <b>Fale comigo</b></h1>
-  <blockquote>Clique em qualquer um dos ícones abaixo para acessar meu perfil.</blockquote><br>
-  <!-- Contatos -->
-  <div align="center">
-    <a href="https://www.linkedin.com/in/vitor-oliveira-302558228" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a> <!-- LinkedIn -->
-    <a href="https://www.instagram.com/vituuu.pdf/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a> <!-- Instagram -->
-  </div>
+---
+
+<!-- Sobre mim -->
+## Sobre mim
+
+Sou estudante de **Ciência da Computação** e estou atualmente no **8º semestre**. Atuo como desenvolvedor na equipe de sistemas da **Brasif Máquinas** e tenho experiência no desenvolvimento de soluções internas, automações e sistemas web voltados para melhoria de processos, integração de dados e apoio às áreas de negócio.
+
+No dia a dia, trabalho principalmente com:
+
+- Desenvolvimento web com **Python, Flask, HTML, CSS, Bootstrap e JavaScript**;
+- Criação de automações e aplicações com **Power Apps** e **Power Automate**;
+- Integrações com APIs, bancos de dados e sistemas corporativos;
+
+Também tenho formação técnica em **Eletromecânica pelo SENAI**, o que me ajuda a enxergar tecnologia não só pelo lado do código, mas também pelo lado prático dos processos e operações.
+
+---
+
+<!-- Contato -->
+## Fale comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vitor-oliveira-302558228" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://www.instagram.com/vituuu.pdf/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
+</a>
+
 </div>
+
+---
 
 <!-- Tecnologias -->
+## Tecnologias e ferramentas
+
 <div align="center">
-  <h1 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="30" /> <b>Tecnologias</b></h1>
-  <br>
-  <img align="center" alt="Vi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Vi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Vi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Vi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Vi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-  <img align="center" alt="Vi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> 
-  <img align="center" alt="Vi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>       
+
+### Desenvolvimento Web
+
+<img alt="HTML5" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+&nbsp;
+<img alt="CSS3" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+&nbsp;
+<img alt="JavaScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+&nbsp;
+<img alt="Node.js" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+&nbsp;
+<img alt="Python" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+&nbsp;
+<img alt="Flask" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+&nbsp;
+<img alt="Bootstrap" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+
+<br><br>
+
+### Banco de dados, versionamento e ferramentas
+
+<img alt="SQL Server" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+&nbsp;
+<img alt="PostgreSQL" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+&nbsp;
+<img alt="Git" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+&nbsp;
+<img alt="GitHub" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+&nbsp;
+<img alt="VS Code" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+&nbsp;
+<img alt="C" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+&nbsp;
+<img alt="Arduino" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+
+<br><br>
+
+### Power Platform
+
+<img
+  src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"
+  alt="Power Apps"
+/>
+<img
+  src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"
+  alt="Power Automate"
+/>
+
 </div>
 
+---
+
+<!-- Projetos e interesses -->
+## Áreas de interesse
+
+- Desenvolvimento de sistemas internos;
+- Automação de processos;
+- Integrações entre sistemas;
+- APIs e bancos de dados;
+- Inteligência Artificial aplicada;
+- Processamento de Linguagem Natural;
+- Sistemas web modernos.
+
+---
+
 <!-- Cobrinha commits -->
+## Contribuições
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitoroliveirasilva/vitoroliveirasilva/output/github-contribution-grid-snake-dark.svg">
