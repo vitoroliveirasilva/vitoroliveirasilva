@@ -1,16 +1,10 @@
-<!-- Header animado -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=30&pause=1000&color=B000FF&center=true&vCenter=true&random=false&width=700&height=55&lines=Ol%C3%A1%2C+mundo!;Me+chamo+Vitor+Oliveira;Desenvolvedor+Full-Stack;Python+%7C+Flask+%7C+JavaScript+%7C+Power+Platform"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
-
 <!-- Apresentação -->
 <div align="center">
-Desenvolvedor Flask | Python | Node | JavaScript | Power Platform
+
+# Vitor Oliveira Silva
+
+## Flask | Python | Node | JavaScript | Power Platform
+
 </div>
 
 ---
