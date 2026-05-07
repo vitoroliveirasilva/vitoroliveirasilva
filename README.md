@@ -8,15 +8,9 @@
   </a>
 </div>
 
-<br>
-
 <!-- Apresentação -->
 <div align="center">
-
-# Vitor Oliveira Silva
-
 **Desenvolvedor Full-Stack | Python | Flask | JavaScript | Node | Power Platform**
-
 </div>
 
 ---
