@@ -1,10 +1,7 @@
 <!-- Apresentação -->
 <div align="center">
-
-# Vitor Oliveira Silva
-
-## Flask | Python | Node | JavaScript | Power Platform
-
+  # Vitor Oliveira Silva
+  Flask | Python | Node | JavaScript | Power Platform
 </div>
 
 ---
