@@ -10,7 +10,7 @@
 
 <!-- Apresentação -->
 <div align="center">
-**Desenvolvedor Full-Stack | Python | Flask | JavaScript | Node | Power Platform**
+Desenvolvedor Flask | Python | Node | JavaScript | Power Platform
 </div>
 
 ---
