@@ -8,38 +8,34 @@
   Node.js &nbsp;•&nbsp; Power Platform
 </p>
 
+<img
+  src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
+  width="200"
+  alt="Animação de desenvolvimento de software"
+/>
+
 </div>
 
 ## Sobre mim
 
-<div>
-
-<img
-align="right"
-src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
-width="180"
-alt="Animação de desenvolvimento de software"
-/>
-
-<p>
-  Sou estudante de <strong>Ciência da Computação</strong> e atualmente estou no
-  <strong>8º semestre</strong>. Atuo como desenvolvedor na equipe de sistemas da
-  <strong>Brasif Máquinas</strong>, criando soluções internas, automações e
-  aplicações web voltadas à melhoria de processos, integração de dados e apoio
-  às áreas de negócio.
+<p align="justify">
+  Sou estudante do <strong>8º período de Ciência da Computação</strong> e trabalho como
+  <strong>Assistente de Sistemas</strong>. Minha atuação é voltada
+  ao desenvolvimento e à manutenção de soluções internas, principalmente
+  aplicações web, APIs, integrações e automações com
+  <strong>Python, Flask e SQL Server</strong>, além de melhorias de interface com
+  <strong>HTML, CSS, JavaScript e Bootstrap</strong>.
 </p>
 
-<p>
-  Minha formação técnica em <strong>Eletromecânica pelo SENAI</strong> também
-  influencia bastante a forma como trabalho. Gosto de entender o processo por
-  inteiro, identificar o problema real e transformar necessidades operacionais
-  em soluções simples, confiáveis e fáceis de manter.
+<p align="justify">
+  Inicialmente trabalhei na área de suporte e com o tempo, migrei para o
+  desenvolvimento de sistemas. Hoje atuo principalmente na criação e evolução de
+  aplicações internas, APIs, integrações e automações, acompanhando desde as
+  regras de negócio e a estrutura dos dados até a interface e a manutenção das
+  soluções. Embora não seja minha principal frente de atuação atualmente, também utilizo a
+  <strong>Power Platform</strong> quando ela se mostra a melhor opção para
+  automatizar fluxos e atender demandas internas.
 </p>
-
-</div>
-
-<br>
-<br>
 
 <div align="center">
 
@@ -64,14 +60,6 @@ alt="Animação de desenvolvimento de software"
 </a>
 
 </div>
-
-### No dia a dia, trabalho com
-
-* Desenvolvimento de sistemas web com **Python, Flask, HTML, CSS, Bootstrap, JavaScript e Node.js**;
-* Automação de processos e criação de aplicações com **Power Apps** e **Power Automate**;
-* Integração entre **APIs, bancos de dados e sistemas corporativos**;
-* Desenvolvimento de ferramentas internas para reduzir tarefas manuais e melhorar fluxos de trabalho;
-* Organização de regras de negócio, permissões, auditoria e experiência do usuário.
 
 ## Tecnologias e ferramentas
 
@@ -168,7 +156,9 @@ alt="Animação de desenvolvimento de software"
 * **Automações de processos** que eliminam tarefas repetitivas e integram pessoas, dados e ferramentas;
 * **APIs e integrações** que permitem a comunicação entre diferentes sistemas e plataformas;
 * **Dashboards e soluções** que apresentam dados de forma clara e apoiam a tomada de decisão;
-* **Aplicações com Inteligência Artificial**, explorando Machine Learning, PLN, modelos generativos, classificação e RAG;
+* **Aplicações com Inteligência Artificial**, explorando Machine Learning, PLN, modelos generativos, classificação e RAG.
+
+<br>
 
 ## Contribuições
 
@@ -191,10 +181,14 @@ alt="Animação de desenvolvimento de software"
 
 </div>
 
+<br>
+
 ## Obrigado pela visita
 
+<div align="center">
 <img
 src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
-width="100%"
+width="83%"
 alt="Animação do Pac-Man"
 />
+</div>
