@@ -12,14 +12,16 @@
 
 ## Sobre mim
 
+<div>
+
 <img
 align="right"
 src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
-width="185"
+width="180"
 alt="Animação de desenvolvimento de software"
 />
 
-<p align="justify">
+<p>
   Sou estudante de <strong>Ciência da Computação</strong> e atualmente estou no
   <strong>8º semestre</strong>. Atuo como desenvolvedor na equipe de sistemas da
   <strong>Brasif Máquinas</strong>, criando soluções internas, automações e
@@ -27,14 +29,17 @@ alt="Animação de desenvolvimento de software"
   às áreas de negócio.
 </p>
 
-<p align="justify">
+<p>
   Minha formação técnica em <strong>Eletromecânica pelo SENAI</strong> também
   influencia bastante a forma como trabalho. Gosto de entender o processo por
   inteiro, identificar o problema real e transformar necessidades operacionais
   em soluções simples, confiáveis e fáceis de manter.
 </p>
 
-<br clear="right">
+</div>
+
+<br>
+<br>
 
 <div align="center">
 
