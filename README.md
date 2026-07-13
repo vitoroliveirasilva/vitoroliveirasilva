@@ -158,6 +158,36 @@
 * **Dashboards e soluções** que apresentam dados de forma clara e apoiam a tomada de decisão;
 * **Aplicações com Inteligência Artificial**, explorando Machine Learning, PLN, modelos generativos, classificação e RAG.
 
+## Projetos em movimento
+
+<div align="center">
+
+<blockquote align="left">
+  Visão dinâmica dos projetos que estou desenvolvendo e dos repositórios com atividade recente
+</blockquote>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://projectscope-dynamic-svg.netlify.app/api/cards/project-radar.svg?username=vitoroliveirasilva&amp;limit=6&amp;center_label=VITOR&amp;theme=midnight&amp;locale=pt-BR&amp;width=900"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://projectscope-dynamic-svg.netlify.app/api/cards/project-radar.svg?username=vitoroliveirasilva&amp;limit=6&amp;center_label=VITOR&amp;theme=github-light&amp;locale=pt-BR&amp;width=900"
+  />
+  <img
+    src="https://projectscope-dynamic-svg.netlify.app/api/cards/project-radar.svg?username=vitoroliveirasilva&amp;limit=6&amp;center_label=VITOR&amp;theme=midnight&amp;locale=pt-BR&amp;width=900"
+    width="100%"
+    alt="Radar dinâmico dos projetos com atividade recente"
+  />
+</picture>
+
+<blockquote align="left">
+  O card acima é atualizado automaticamente com base na atividade dos meus repositórios no GitHub e fazem parte do projeto
+  <a href="https://github.com/vitoroliveirasilva/projectscope.dynamic-svg">ProjectScope Dynamic SVG</a>.
+</blockquote>
+
+</div>
+
 <br>
 
 ## Contribuições
@@ -188,7 +218,7 @@
 <div align="center">
 <img
 src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
-width="100%"
+width="95%"
 alt="Animação do Pac-Man"
 />
 </div>
