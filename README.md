@@ -152,18 +152,19 @@
 
 ## Soluções e áreas de desenvolvimento
 
-* **Sistemas internos e aplicações corporativas** que centralizam informações, organizam operações e reduzem atividades manuais;
-* **Automações de processos** que eliminam tarefas repetitivas e integram pessoas, dados e ferramentas;
-* **APIs e integrações** que permitem a comunicação entre diferentes sistemas e plataformas;
-* **Dashboards e soluções** que apresentam dados de forma clara e apoiam a tomada de decisão;
-* **Aplicações com Inteligência Artificial**, explorando Machine Learning, PLN, modelos generativos, classificação e RAG.
+- **Sistemas internos e aplicações corporativas** que centralizam informações, organizam operações e reduzem atividades manuais;
+- **Automações de processos** que eliminam tarefas repetitivas e conectam pessoas, dados e ferramentas;
+- **APIs e integrações** que possibilitam a comunicação eficiente entre diferentes sistemas e plataformas;
+- **Dashboards e soluções orientadas a dados** que apresentam dados de forma clara e apoiam a tomada de decisão;
+- **Aplicações com Inteligência Artificial**, explorando Machine Learning, Processamento de Linguagem Natural, modelos generativos, classificação de dados e arquiteturas RAG.
+
 
 ## Projetos em movimento
 
 <div align="center">
 
 <blockquote align="left">
-  Visão dinâmica dos projetos que estou desenvolvendo e dos repositórios com atividade recente
+  Uma visão dinâmica dos projetos em desenvolvimento e dos repositórios que receberam atividade recente
 </blockquote>
 <picture>
   <source
@@ -182,8 +183,7 @@
 </picture>
 
 <blockquote align="left">
-  O card acima é atualizado automaticamente com base na atividade dos meus repositórios no GitHub e fazem parte do projeto
-  <a href="https://github.com/vitoroliveirasilva/projectscope.dynamic-svg">ProjectScope Dynamic SVG</a>.
+  O card abaixo é atualizado automaticamente com base na atividade dos meus repositórios no GitHub (<a href="https://github.com/vitoroliveirasilva/projectscope.dynamic-svg">ProjectScope Dynamic SVG</a>)
 </blockquote>
 
 </div>
