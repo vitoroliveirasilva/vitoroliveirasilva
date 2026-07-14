@@ -182,9 +182,9 @@
   />
 </picture>
 
-<blockquote align="left">
-  O card abaixo é atualizado automaticamente com base na atividade dos meus repositórios no GitHub (<a href="https://github.com/vitoroliveirasilva/projectscope.dynamic-svg">ProjectScope Dynamic SVG</a>)
-</blockquote>
+<sub>
+  O card acima é atualizado automaticamente com base na atividade dos meus repositórios no GitHub (<a href="https://github.com/vitoroliveirasilva/projectscope.dynamic-svg">ProjectScope Dynamic SVG</a>)
+</sub>
 
 </div>
 
