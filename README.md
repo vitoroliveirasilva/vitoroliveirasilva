@@ -4,8 +4,7 @@
 # Vitor Oliveira Silva
 
 <p>
-  Python &nbsp;•&nbsp; Flask &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp;
-  Node.js &nbsp;•&nbsp; Power Platform
+  Desenvolvedor de Software | Python • Flask • FastAPI • APIs REST • Node.js • SQL Server • PostgreSQL
 </p>
 
 <img
@@ -19,22 +18,39 @@
 ## Sobre mim
 
 <p align="justify">
-  Sou estudante do <strong>8º período de Ciência da Computação</strong> e trabalho como
-  <strong>Assistente de Sistemas</strong>. Minha atuação é voltada
-  ao desenvolvimento e à manutenção de soluções internas, principalmente
-  aplicações web, APIs, integrações e automações com
-  <strong>Python, Flask e SQL Server</strong>, além de melhorias de interface com
-  <strong>HTML, CSS, JavaScript e Bootstrap</strong>.
+  Atuo com <strong>desenvolvimento de software</strong>, criando e evoluindo
+  aplicações web, APIs, integrações, automações e soluções internas voltadas à
+  resolução de problemas reais de negócio. Minha principal atuação está no
+  desenvolvimento com <strong>Python</strong>, utilizando <strong>Flask</strong> e
+  <strong>FastAPI</strong>, além de trabalhar com <strong>Node.js</strong>,
+  <strong>JavaScript</strong> e <strong>TypeScript</strong> em diferentes tipos de
+  aplicações e integrações.
 </p>
 
 <p align="justify">
-  Inicialmente trabalhei na área de suporte e com o tempo, migrei para o
-  desenvolvimento de sistemas. Hoje atuo principalmente na criação e evolução de
-  aplicações internas, APIs, integrações e automações, acompanhando desde as
-  regras de negócio e a estrutura dos dados até a interface e a manutenção das
-  soluções. Embora não seja minha principal frente de atuação atualmente, também utilizo a
-  <strong>Power Platform</strong> quando ela se mostra a melhor opção para
-  automatizar fluxos e atender demandas internas.
+  Tenho experiência com <strong>SQL Server</strong> e
+  <strong>PostgreSQL</strong>, atuando com modelagem de dados, consultas,
+  validações, regras de negócio e integração entre aplicações e bancos de dados.
+  Também participo do desenvolvimento da camada de interface utilizando
+  <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>,
+  <strong>Bootstrap</strong> e <strong>React</strong>, acompanhando as soluções
+  desde a estrutura dos dados e lógica de negócio até a experiência final do
+  usuário.
+</p>
+
+<p align="justify">
+  Minha trajetória profissional começou na área de suporte e sustentação de TI e
+  evoluiu para automação e desenvolvimento de sistemas, o que me proporcionou uma
+  visão ampla sobre o ciclo de vida das aplicações, desde o entendimento das
+  necessidades e regras de negócio até desenvolvimento, integração, testes,
+  implantação, manutenção e evolução contínua.
+</p>
+
+<p align="justify">
+  Também possuo experiência com <strong>Power Platform</strong>, principalmente
+  <strong>Power Apps</strong> e <strong>Power Automate</strong>, utilizando essas
+  ferramentas de forma complementar quando são a alternativa mais adequada para
+  automatizar processos e integrar fluxos corporativos.
 </p>
 
 <div align="center">
@@ -154,12 +170,12 @@
 
 ## Soluções e áreas de desenvolvimento
 
-- **Sistemas internos e aplicações corporativas** que centralizam informações, organizam operações e reduzem atividades manuais;
-- **Automações de processos** que eliminam tarefas repetitivas e conectam pessoas, dados e ferramentas;
-- **APIs e integrações** que possibilitam a comunicação eficiente entre diferentes sistemas e plataformas;
-- **Dashboards e soluções orientadas a dados** que apresentam dados de forma clara e apoiam a tomada de decisão;
-- **Aplicações com Inteligência Artificial**, explorando Machine Learning, Processamento de Linguagem Natural, modelos generativos, classificação de dados e arquiteturas RAG.
-
+* **Aplicações web e sistemas corporativos** para digitalização de processos, centralização de informações e apoio às rotinas operacionais;
+* **APIs e integrações entre sistemas** para comunicação entre aplicações, serviços, bancos de dados e plataformas externas;
+* **Automações de processos** para reduzir atividades manuais, padronizar fluxos e conectar dados, sistemas e usuários;
+* **Soluções orientadas a dados** envolvendo consultas, processamento, organização e apresentação de informações para acompanhamento e tomada de decisão;
+* **Arquitetura e evolução de aplicações** com foco em organização de código, regras de negócio, segurança, manutenibilidade e facilidade de evolução;
+* **Inteligência Artificial aplicada**, explorando Machine Learning, Processamento de Linguagem Natural, modelos generativos, classificação de dados e arquiteturas RAG em estudos e novos projetos.
 
 ## Projetos em movimento
 
